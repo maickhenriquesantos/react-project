@@ -1,0 +1,29 @@
+aside.menu-area {
+    background-color: #fff;
+
+}
+
+.menu a {
+    display: block;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 15px;
+    letter-spacing: -0.4px;
+    line-height: 24px;
+    text-align: left;
+    font-family: InterUI;
+    font-size: 16px;
+    opacity: 0.5046037946428571;
+}
+
+ .menu a:hover {
+    color: #5A5773;
+    font-weight: bold;
+}
+i{
+    color: #00D954;
+    font-family: FontAwesome5Pro;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}

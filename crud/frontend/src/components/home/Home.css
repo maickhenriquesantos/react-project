@@ -1,0 +1,57 @@
+
+.card{
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    box-shadow: 20px 25px 40px 0 rgba(35, 38, 90, 0.06);
+    width: 260px;
+    height: 197px;
+    padding: 10px;
+}
+.indicadores{
+    color: #5A5773;
+    font-family: InterUI;
+    font-size: 24px;
+    letter-spacing: -0.4px;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+.title-desc{
+    color: #5A5773;
+    font-family: InterUI;
+    font-size: 16px;
+    letter-spacing: -0.09px;
+    line-height: 24px;
+    opacity: 0.6146952311197916;
+    width: 228px;
+    text-align: left;
+}
+
+.desc-value{
+    color: #5A5773;
+    font-family: InterUI;
+    font-size: 39px;
+    letter-spacing: -1.46px;
+    line-height: 26px;
+    text-align: center;
+}
+.desc-percent{
+    color: #5A5773;
+    font-family: InterUI;
+    font-size: 18px;
+    letter-spacing: -0.67px;
+    line-height: 26px;
+    opacity: 0.5387028285435268;
+    text-align: center;  
+}
+.cifra{
+    color: #5A5773;
+    font-family: InterUI;
+    font-size: 19px;
+    letter-spacing: -0.11px;
+    line-height: 24px;
+    opacity: 0.6146952311197916;
+    width: 27px;
+    text-align: left;
+}
